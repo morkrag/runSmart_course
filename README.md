@@ -18,6 +18,7 @@ TO DO:
    1. Forms require style polishing and input mask.
    2. Whole project must be adapted to various device screen sizes.
    3. Must check images alt and ability to move threw web page using keyboard.
+   4. Update repository. Project is on further development stage on local, than one stored in this repository.
 
 EXTRA:
    
