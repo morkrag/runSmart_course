@@ -27,5 +27,14 @@
         a 
             color: #ff0000
             text-decoration: underline
-        
+    &__icon
+        &_animated
+            animation-play-state: paused
+            animation-name: heartbeat
+            animation-duration: 1.4s
+            animation-timing-function: ease
+            animation-iteration-count: infinite
+            &:hover
+                animation-play-state: running
+            
     
