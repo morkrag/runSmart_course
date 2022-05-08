@@ -11,6 +11,7 @@ COMPLETED STAGES:
    5. Google maps is added to webpage
    6. Forms and modal windows complete.
    7. Added some php scripts that send inputed by user data in the forms via email. Works only on local or remote host. Github pages doesnt support that feature.
+   8. Repository updated. Project on local device is up to date with current repository.
 
 
 TO DO:
@@ -18,7 +19,6 @@ TO DO:
    1. Forms require style polishing and input mask.
    2. Whole project must be adapted to various device screen sizes.
    3. Must check images alt and ability to move threw web page using keyboard.
-   4. Update repository. Project is on further development stage on local, than one stored in this repository.
 
 EXTRA:
    
